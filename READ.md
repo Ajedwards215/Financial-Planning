@@ -1,1 +1,0 @@
-For this Homework using API's I was abable to retrieve historical data of two stocks. Once the historical data was gathered I was then able to run monte carlo simulations to project the portfolio return for each portfolio.
