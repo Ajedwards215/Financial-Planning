@@ -1,0 +1,3 @@
+# Financial-Planning
+
+The project involved developing two financial analysis tools as part of a consultancy firm's contract with a fictitious credit union. The first tool was a personal finance planner, which included collecting current cryptocurrency prices using the Free Crypto API and investment data using the Alpaca API. The second tool was a retirement planning tool that used the Alpaca API to fetch historical closing prices for a retirement portfolio composed of stocks and bonds, then ran Monte Carlo simulations to project the portfolio performance at 30 years. The project required using Python and several libraries, including requests, Pandas, and MCForecastTools. 
